@@ -1,6 +1,6 @@
 ## Migration
 
-verily-src/setup-java is an old public repository and is no longer maintained.
+## verily-src/setup-java is an old public repository and is no longer maintained.
 
 Please use the repository
 [verily-src/actions-setup-java](https://github.com/verily-src/actions-setup-java) as
